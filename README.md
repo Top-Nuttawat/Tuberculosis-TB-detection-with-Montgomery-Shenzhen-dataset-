@@ -1,1 +1,1 @@
-# Tuberculosis-TB-detection-with-Montgomery-Shenzhen-dataset-
+# Tuberculosis-TB-detection-with-Montgomery-Shenzhen-dataset
